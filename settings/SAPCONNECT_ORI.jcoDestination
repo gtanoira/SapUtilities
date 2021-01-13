@@ -1,0 +1,10 @@
+#for tests only !
+#Fri Mar 11 11:22:01 ART 2016
+jco.client.lang=es
+jco.destination.peak_limit=10
+jco.client.client=800
+jco.client.passwd=GtwSap02
+jco.client.user=svcshadesap
+jco.client.sysnr=00
+jco.destination.pool_capacity=3
+jco.client.ashost=clxsapp01.claxson.local

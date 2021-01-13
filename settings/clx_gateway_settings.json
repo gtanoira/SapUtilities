@@ -1,0 +1,23 @@
+{
+  "MySqlPortalAdmin": {
+	"name": "admapps02",
+	"port": "3306",
+	"userName": "portaladmin",
+	"password": "Portal.1984"
+  },
+  "MySqlAws": {
+	"host": "database-1.cdvbmjzc3qqe.us-east-1.rds.amazonaws.com",
+	"port": "3306",
+	"userName": "gtanoira",
+	"password": "Gtn.3617$"
+  },
+  "MySqlCsi": {
+	"host": "10.4.0.158",
+	"port": "3306",
+	"userName": "root",
+	"password": "Csi.2019"
+  },
+  "UrlPortalAdmin": "http://localhost:8000",
+  "UrlSapGw": "http://clxsapjgw02:8080/ClxWebService",
+  "UrlHotgoBackend": "http://localhost:5000"
+}

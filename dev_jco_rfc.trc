@@ -1,0 +1,66 @@
+
+**** Error file opened at 20200102 100831 Argentine Time Rel. 3.0.13 (2015-04-27) [721.510]
+Error:  >Thu Jan 02 10:08:31,214<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=../../../../var/local/SAPCONNECT ASHOST=clxsapc01.claxson.local SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'clxsapc01.claxson.local' unknown
+TIME        Thu Jan 02 10:08:31 2020
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'clxsapc01.claxson.local' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20200102 101051 Argentine Time Rel. 3.0.13 (2015-04-27) [721.510]
+Error:  >Thu Jan 02 10:10:51,063<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=../../../../var/local/SAPCONNECT ASHOST=clxsapc01.claxson.local SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'clxsapc01.claxson.local' unknown
+TIME        Thu Jan 02 10:10:50 2020
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'clxsapc01.claxson.local' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20200102 101403 Argentine Time Rel. 3.0.13 (2015-04-27) [721.510]
+Error:  >Thu Jan 02 10:14:03,811<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=../../../../var/local/SAPCONNECT ASHOST=clxsapc01.claxson.local SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'clxsapc01.claxson.local' unknown
+TIME        Thu Jan 02 10:14:03 2020
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'clxsapc01.claxson.local' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION

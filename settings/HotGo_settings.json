@@ -1,0 +1,10 @@
+{
+  "PortalAdminUrl": "http://localhost:8000",
+  "MySqlAws": {
+	"host": "database-1.cdvbmjzc3qqe.us-east-1.rds.amazonaws.com",
+	"port": "3306",
+	"userName": "gtanoira",
+	"password": "Gtn.3617$"
+  },
+  "SapGwServerUrl": "http://clxsapjgw01:8080/ClxWebService"
+}
